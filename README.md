@@ -7,7 +7,9 @@
 </p>
 
 
-**connect me:**
+
+**connect me: &nbsp;&nbsp;&nbsp;<img src="assets/mario.gif" width="30px">**
+
 <code> 
   <a href="mailto:itssvinayak@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
 </code>

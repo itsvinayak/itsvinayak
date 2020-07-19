@@ -1,14 +1,15 @@
-# Hi , friends!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/code-cat.gif" width="30px">
+# Hi , friends!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
 
-### it's vinayak here, a Computer Science and Engineering undergraduate and a full stack programmer
+### it's vinayak here,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">
+### A Computer Science and Engineering undergraduate and a full stack programmer
 
 <p align='center'>
-<img src='assets/github_wall.gif' width='200'>
+<img src='https://github.com/itsvinayak/itsvinayak/blob/master/assets/github_wall.gif' width='200'>
 </p>
 
 
 
-**connect me: &nbsp;&nbsp;&nbsp;<img src="assets/mario.gif" width="30px">**
+**connect me: &nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/mario.gif" width="30px">**
 
 <code> 
   <a href="mailto:itssvinayak@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>

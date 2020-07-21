@@ -1,7 +1,7 @@
 # Hi , friends!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
 
 ### it's vinayak here,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">
-### A Computer Science and Engineering undergraduate and a full stack programmer
+### A Computer Science and Engineering undergraduate and a full stack programmer <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="40px">
 
 <p align='center'>
 <img src='https://github.com/itsvinayak/itsvinayak/blob/master/assets/github_wall.gif' width='200'>

@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning many things
 
-- 👨‍💻 All of my projects are available at here
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about django,python,javascript
 
@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itsvinayak" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/users/8904253/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/8904253/itsvinayak" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8904253/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/8904253/itsvinayak" height="30" width="30" /></a>
 <a href="https://instagram.com/itssvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itssvinayak" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/vinayak sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vinayak sharma" height="30" width="30" /></a>
 </p>

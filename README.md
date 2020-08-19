@@ -8,6 +8,7 @@
 
  
 <p align="left">
+  
 - 🌱 I’m currently learning many things
 
 - 👨‍💻 All of my projects are available at here
@@ -19,7 +20,8 @@
 
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvinayak&show_icons=true" alt="itsvinayak" /></p> 
- <p><img align="center" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"></p>
+ <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img align="center" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"></p>
 
 
 ---

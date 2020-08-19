@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="assets/Hi.gif" height="30px" />, I'm vinayak</h1>
+<h1 align="center">Hi <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" height="30px" />, I'm vinayak</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
 <p align="left">

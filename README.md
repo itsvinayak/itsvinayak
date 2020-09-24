@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" height="30px" />, I'm vinayak</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itsvinayak" alt="itsvinayak" />

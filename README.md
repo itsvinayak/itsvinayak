@@ -27,6 +27,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Instagram Login Using Python Selenium](https://itsvinayak.hashnode.dev/automate-instagram-login-using-python-selenium)
+- [All About Knapsack Problem | python](https://itsvinayak.hashnode.dev/all-about-knapsack-problem-or-python)
+- [How to Create a Youtube clone using react](https://itsvinayak.hashnode.dev/how-to-create-a-youtube-clone-using-react)
+- [Creating a follow and unfollow system in Django | python](https://itsvinayak.hashnode.dev/creating-a-follow-and-unfollow-system-in-django)
 <!-- BLOG-POST-LIST:END -->
 
 

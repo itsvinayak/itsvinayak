@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsvinayak" alt="itsvinayak" />
+  <img src="https://komarev.com/ghpvc/?username=itsvinayak&label=PROFILE+VIEWS" alt="itsvinayak" />
   <a href="mailto:itssvinayak@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
 </p>
 

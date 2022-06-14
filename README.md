@@ -15,11 +15,8 @@
 <p align="left">
   
 - 🌱 I’m currently learning many things
-
 - 👨‍💻 All of my projects are available here
-
-- 💬 Ask me about django,python,javascript
-
+- 💬 Ask me about django, python, javascript, node
 - 📫 How to reach me **itssvinayak@gmail.com**
 </p>
 
@@ -40,7 +37,11 @@
 - [Creating a follow and unfollow system in Django | python](https://itsvinayak.hashnode.dev/creating-a-follow-and-unfollow-system-in-django)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+<p align="center">
+<a href="https://app.daily.dev/itsvinayak"><img src="https://api.daily.dev/devcards/2766e4c6d2b84e3b9a3ac959ea4b3a72.png?r=6r1" width="200" alt="vinayak's Dev Card"/></a>
+</p>
 
 
 ---

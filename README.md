@@ -33,6 +33,8 @@
 - [Basic Operations with node_redis](https://itsvinayak.hashnode.dev/redis-for-javascript-basic-operations-with-noderedis-part-3)
 - [Redis clients and connecting to Redis](https://itsvinayak.hashnode.dev/redis-clients-and-connecting-to-redis)
 - [Getting started with Redis and node_redis](https://itsvinayak.hashnode.dev/redis-for-javascript-hello-world)
+- [Sum of All Subset XOR Totals](https://itsvinayak.hashnode.dev/sum-of-all-subset-xor-totals)
+- [Graph Representation:  Adjacency List vs Adjacency Matrix](https://itsvinayak.hashnode.dev/graph-representation-adjacency-list-vs-adjacency-matrix)
 <!-- BLOG-POST-LIST:END -->
 
 ---

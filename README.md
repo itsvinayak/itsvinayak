@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-<a href="https://app.daily.dev/itsvinayak"><img src="https://api.daily.dev/devcards/2766e4c6d2b84e3b9a3ac959ea4b3a72.png?r=6r1" width="200" alt="vinayak's Dev Card"/></a>
+<a href="https://app.daily.dev/itsvinayak"><img src="https://github.com/itsvinayak/itsvinayak/blob/master/devcard.svg" width="200" alt="vinayak's Dev Card"/></a>
 </p>
 
 

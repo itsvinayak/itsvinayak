@@ -29,12 +29,10 @@
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="40"/> Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis For Javascript | Hello world | part 1](https://itsvinayak.hashnode.dev/redis-for-javascript-hello-world)
-- [Graph Representation:  Adjacency List vs Adjacency Matrix](https://itsvinayak.hashnode.dev/graph-representation-adjacency-list-vs-adjacency-matrix)
-- [Automate Instagram Login Using Python Selenium](https://itsvinayak.hashnode.dev/automate-instagram-login-using-python-selenium)
-- [All About Knapsack Problem | python](https://itsvinayak.hashnode.dev/all-about-knapsack-problem-or-python)
-- [How to Create a Youtube clone using react](https://itsvinayak.hashnode.dev/how-to-create-a-youtube-clone-using-react)
-- [Creating a follow and unfollow system in Django | python](https://itsvinayak.hashnode.dev/creating-a-follow-and-unfollow-system-in-django)
+- [Writing Unit Tests in Javascript Using JEST](https://itsvinayak.hashnode.dev/writing-unit-tests-in-javascript-using-jest)
+- [Basic Operations with node_redis](https://itsvinayak.hashnode.dev/redis-for-javascript-basic-operations-with-noderedis-part-3)
+- [Redis clients and connecting to Redis](https://itsvinayak.hashnode.dev/redis-clients-and-connecting-to-redis)
+- [Getting started with Redis and node_redis](https://itsvinayak.hashnode.dev/redis-for-javascript-hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---

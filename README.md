@@ -29,12 +29,12 @@
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="40"/> Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lua Script in Redis using node_redis](https://itsvinayak.hashnode.dev/lua-script-in-redis-using-node)
 - [Writing Unit Tests in Javascript Using JEST](https://itsvinayak.hashnode.dev/writing-unit-tests-in-javascript-using-jest)
 - [Basic Operations with node_redis](https://itsvinayak.hashnode.dev/redis-for-javascript-basic-operations-with-noderedis-part-3)
 - [Redis clients and connecting to Redis](https://itsvinayak.hashnode.dev/redis-clients-and-connecting-to-redis)
 - [Getting started with Redis and node_redis](https://itsvinayak.hashnode.dev/redis-for-javascript-hello-world)
 - [Sum of All Subset XOR Totals](https://itsvinayak.hashnode.dev/sum-of-all-subset-xor-totals)
-- [Graph Representation:  Adjacency List vs Adjacency Matrix](https://itsvinayak.hashnode.dev/graph-representation-adjacency-list-vs-adjacency-matrix)
 <!-- BLOG-POST-LIST:END -->
 
 ---

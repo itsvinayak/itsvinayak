@@ -37,11 +37,10 @@
 - [Sum of All Subset XOR Totals](https://itsvinayak.hashnode.dev/sum-of-all-subset-xor-totals)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-<p align="center">
+<!-- p align="center">
 <a href="https://app.daily.dev/itsvinayak"><img src="https://github.com/itsvinayak/itsvinayak/blob/master/devcard.svg" width="200" alt="vinayak's Dev Card"/></a>
-</p>
+</p -->
 
 
 ---

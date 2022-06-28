@@ -14,7 +14,7 @@
 
 <p align="left">
   
-- 🌱 I’m currently learning many things
+  - 🌱 I’m currently learning many things <a href="https://www.freecodecamp.org/itsvinayak"> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a> <a href="https://www.udemy.com/user/vinayak-sharma-17/"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/> </a>
 - 👨‍💻 All of my projects are available here
 - 💬 Ask me about django, python, javascript, node
 - 📫 How to reach me **itssvinayak@gmail.com**

@@ -28,6 +28,19 @@
 ---
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="40"/> Blog posts
+
+<a href="https://dev.to/itsvinayak">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://itsvinayak.hashnode.dev/">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/itsvinayak/articles">
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+---
+
 <!-- BLOG-POST-LIST:START -->
 - [Lua Script in Redis using node_redis](https://itsvinayak.hashnode.dev/lua-script-in-redis-using-node)
 - [Writing Unit Tests in Javascript Using JEST](https://itsvinayak.hashnode.dev/writing-unit-tests-in-javascript-using-jest)

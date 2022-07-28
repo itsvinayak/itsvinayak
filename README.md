@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itsvinayak&label=PROFILE+VIEWS" alt="itsvinayak" />
   <a href="mailto:itssvinayak@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
+  <a href="../../issues/new"><img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'/></a>
 </p>
 
 <p align="right">

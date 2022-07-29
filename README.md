@@ -7,10 +7,7 @@
   <a href="../../issues/new"><img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'/></a>
 </p>
 
-<p align="right">
-    <a href="https://www.buymeacoffee.com/itsvinayak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"   width="180px"></a>
 
-</p>
 
 
 <p align="left">

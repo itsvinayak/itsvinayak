@@ -40,12 +40,12 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [Lua Programming Language](https://itsvinayak.hashnode.dev/lua-programming-language)
-- [Building a Concurrent Web Scraper with Python and Selenium](https://itsvinayak.hashnode.dev/building-a-concurrent-web-scraper-with-python-and-selenium)
-- [Brief Introduction For Getting Started As Linux System Administration](https://itsvinayak.hashnode.dev/brief-introduction-for-getting-started-as-linux-system-administration)
-- [Lua Script in Redis using node_redis](https://itsvinayak.hashnode.dev/lua-script-in-redis-using-node)
-- [Writing Unit Tests in Javascript Using JEST](https://itsvinayak.hashnode.dev/writing-unit-tests-in-javascript-using-jest)
-- [Basic Operations with node_redis](https://itsvinayak.hashnode.dev/redis-for-javascript-basic-operations-with-noderedis-part-3)
+- [Lua Programming Language](https://thebackendblog.com/lua-programming-language)
+- [Building a Concurrent Web Scraper with Python and Selenium](https://thebackendblog.com/building-a-concurrent-web-scraper-with-python-and-selenium)
+- [Brief Introduction For Getting Started As Linux System Administration](https://thebackendblog.com/brief-introduction-for-getting-started-as-linux-system-administration)
+- [Lua Script in Redis using node_redis](https://thebackendblog.com/lua-script-in-redis-using-node)
+- [Writing Unit Tests in Javascript Using JEST](https://thebackendblog.com/writing-unit-tests-in-javascript-using-jest)
+- [Basic Operations with node_redis](https://thebackendblog.com/redis-for-javascript-basic-operations-with-noderedis-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 

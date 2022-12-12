@@ -19,11 +19,11 @@
 </p>
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvinayak&show_icons=true&theme=radical" alt="itsvinayak" /></p> 
+<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvinayak&show_icons=true&theme=radical" alt="itsvinayak" /></p> 
  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img align="center" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"></p>
-
----
+ -->
+<!-- --- -->
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="40"/> Blog posts
 
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
----
+<!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Test An Application Running On Node.js Using Mocha and Chai](https://itsvinayak.hashnode.dev/how-to-test-an-application-running-on-nodejs-using-mocha-and-chai)

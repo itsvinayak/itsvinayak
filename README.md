@@ -41,12 +41,12 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizing Python Application](https://itsvinayak.hashnode.dev/dockerizing-python-application)
 - [How To Build A Blockchain In Python](https://itsvinayak.hashnode.dev/how-to-build-a-blockchain-in-python)
 - [Getter and Setter in Python](https://itsvinayak.hashnode.dev/getter-and-setter-in-python)
 - [How To Test An Application Running On Node.js Using Mocha and Chai](https://itsvinayak.hashnode.dev/how-to-test-an-application-running-on-nodejs-using-mocha-and-chai)
 - [What is Forex or Foreign Exchange](https://itsvinayak.hashnode.dev/what-is-forex-or-foreign-exchange)
 - [Lua Programming Language](https://itsvinayak.hashnode.dev/lua-programming-language)
-- [Building a Concurrent Web Scraper with Python and Selenium](https://itsvinayak.hashnode.dev/building-a-concurrent-web-scraper-with-python-and-selenium)
 <!-- BLOG-POST-LIST:END -->
 
 

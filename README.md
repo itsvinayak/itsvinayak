@@ -24,6 +24,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&quot;for....of&quot; and &quot;for....in&quot; loop in javascript](https://www.youtube.com/watch?v=ZiWhl2S81zY)
+- [Creating Todo Web App Using Vanilla JavaScript](https://www.youtube.com/watch?v=qGThQNQBnrE)
+- [Configure passwordless sudo for a specific user in linux](https://www.youtube.com/watch?v=7QwdRYuM5i0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC3Vrabb-Q563wejSp3KG8fA)

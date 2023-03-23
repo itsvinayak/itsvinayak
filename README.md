@@ -19,6 +19,16 @@
 - 📫 How to reach me **itssvinayak@gmail.com**
 </p>
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC3Vrabb-Q563wejSp3KG8fA)
+
+
 
 <!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvinayak&show_icons=true&theme=radical" alt="itsvinayak" /></p> 
  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 

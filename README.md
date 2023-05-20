@@ -55,12 +55,12 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Arrays](https://itsvinayak.hashnode.dev/mastering-javascript-arrays)
 - [Must-See GitHub Repositories for Developers](https://itsvinayak.hashnode.dev/must-see-github-repositories-for-developers)
 - [Unlock Your Potential: 12 Points to Become a Kickass Developer According to AI](https://itsvinayak.hashnode.dev/unlock-your-potential-12-points-to-become-a-kickass-developer-according-to-ai)
 - [Most commonly asked JavaScript interview questions](https://itsvinayak.hashnode.dev/most-commonly-asked-javascript-interview-questions)
 - [Must Read  Blockchain Articles](https://itsvinayak.hashnode.dev/must-read-blockchain-articles)
 - [Dockerizing Python Application](https://itsvinayak.hashnode.dev/dockerizing-python-application)
+- [How To Build A Blockchain In Python](https://itsvinayak.hashnode.dev/how-to-build-a-blockchain-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 

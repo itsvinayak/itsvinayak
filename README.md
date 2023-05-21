@@ -97,7 +97,7 @@
 </a>
 <a href="https://linkedin.com/in/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itsvinayak" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/8904253/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/8904253/itsvinayak" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UC3Vrabb-Q563wejSp3KG8fA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vinayak sharma" height="30" width="30" /></a>
+<a href="https://www.youtube.com/@itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vinayak sharma" height="30" width="30" /></a>
 </p>
 
 

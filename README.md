@@ -24,6 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Show Asterisks While Typing Sudo Password in Linux](https://www.youtube.com/watch?v=H0OPIpbqNJ0)
 - [Swapping Variable&#39;s Values with Array Destructuring in JavaScript](https://www.youtube.com/watch?v=bgJLXzzJ6Kc)
 - [&quot;for....of&quot; and &quot;for....in&quot; loop in javascript](https://www.youtube.com/watch?v=ZiWhl2S81zY)
 - [Creating Todo Web App Using Vanilla JavaScript](https://www.youtube.com/watch?v=qGThQNQBnrE)

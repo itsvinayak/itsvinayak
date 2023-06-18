@@ -4,7 +4,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itsvinayak&label=PROFILE+VIEWS" alt="itsvinayak" />
   <a href="mailto:itssvinayak@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <a href="../../issues/new"><img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'/></a>
   <a href="https://linktr.ee/itsvinayak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/></a>
 </p>

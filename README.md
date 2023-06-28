@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 Ways to Clone Objects in JavaScript](https://www.youtube.com/watch?v=5zX5yYaAluA)
 - [Top Beginner-Friendly Linux Distributions for Easy Start](https://www.youtube.com/watch?v=xgDukd7a2o8)
 - [Docker Cheatsheet](https://www.youtube.com/watch?v=6fAi6v-MfTA)
 - [How to Show Asterisks While Typing Sudo Password in Linux](https://www.youtube.com/watch?v=H0OPIpbqNJ0)
 - [Swapping Variable&#39;s Values with Array Destructuring in JavaScript](https://www.youtube.com/watch?v=bgJLXzzJ6Kc)
-- [&quot;for....of&quot; and &quot;for....in&quot; loop in javascript](https://www.youtube.com/watch?v=ZiWhl2S81zY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC3Vrabb-Q563wejSp3KG8fA)

@@ -56,12 +56,12 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What Defines a Software Developer?](https://itsvinayak.hashnode.dev/what-defines-a-software-developer)
 - [GIT For Beginners](https://itsvinayak.hashnode.dev/git-for-beginners)
 - [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://itsvinayak.hashnode.dev/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks)
 - [Top Beginner-Friendly Linux Distributions for Easy Start](https://itsvinayak.hashnode.dev/top-beginner-friendly-linux-distributions-for-easy-start)
 - [Docker Cheat Sheet](https://itsvinayak.hashnode.dev/docker-cheat-sheet)
 - [File Uploads Made Easy with Node.js](https://itsvinayak.hashnode.dev/file-uploads-made-easy-with-nodejs)
-- [Configure passwordless sudo for a specific user in Linux](https://itsvinayak.hashnode.dev/configure-passwordless-sudo-for-a-specific-user-in-linux)
 <!-- BLOG-POST-LIST:END -->
 
 

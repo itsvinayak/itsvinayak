@@ -90,8 +90,7 @@
 ---
 
 
-[![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) [![itsvinayak's Stack Overflow | Stats](https://stats.quine.sh/itsvinayak/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsvinayak) 
-
+[![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) 
 ---
 <p align="center">
 <a target="_blank" href="https://dev.to/itsvinayak">

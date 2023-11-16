@@ -109,13 +109,7 @@
 </p>
  -->
 
-<pre>
-                                                                              _____________________ 
-                                                                              < thanks for visiting >
-                                                                               --------------------- 
-                                                                                      \   ^__^
-                                                                                       \  (oo)\_______
-                                                                                          (__)\       )\/\
-                                                                                              ||----w |
-                                                                                              ||     ||
-</p>
+
+[![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak)
+
+

@@ -69,6 +69,8 @@
 <a href="https://app.daily.dev/itsvinayak"><img src="https://github.com/itsvinayak/itsvinayak/blob/master/devcard.svg" width="200" alt="vinayak's Dev Card"/></a>
 </p -->
 
+---
+[![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) 
 
 ---
 
@@ -89,9 +91,6 @@
 
 ---
 
-
-[![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) 
----
 <p align="center">
 <a target="_blank" href="https://dev.to/itsvinayak">
   <img align="center"  alt="vinayak" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />

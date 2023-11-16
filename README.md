@@ -15,7 +15,7 @@
   
   - 🌱 I’m currently learning many things <a href="https://www.freecodecamp.org/itsvinayak"> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a> <a href="https://www.udemy.com/user/vinayak-sharma-17/"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/> </a>
 - 👨‍💻 All of my projects are available here
-- 💬 Ask me about django, python, javascript, node
+- 💬 Ask me about Django, python, javascript, node
 - 📫 How to reach me **itssvinayak@gmail.com**
 </p>
 
@@ -25,7 +25,7 @@
 
 <!-- YOUTUBE:START -->
 - [Optimize Your Kubernetes Workflow With Essential Bash Aliases! 💻](https://www.youtube.com/watch?v=yyuk9557OY4)
-- [5 lesser known Tricks and Shorthands for JavaScript](https://www.youtube.com/watch?v=4ROFiicxh5M)
+- [5 lesser-known Tricks and Shorthands for JavaScript](https://www.youtube.com/watch?v=4ROFiicxh5M)
 - [3 Ways to Clone Objects in JavaScript](https://www.youtube.com/watch?v=5zX5yYaAluA)
 - [Top Beginner-Friendly Linux Distributions for Easy Start](https://www.youtube.com/watch?v=xgDukd7a2o8)
 - [Docker Cheatsheet](https://www.youtube.com/watch?v=6fAi6v-MfTA)
@@ -89,6 +89,10 @@
 
 ---
 
+
+[![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) [![itsvinayak's Stack Overflow | Stats](https://stats.quine.sh/itsvinayak/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsvinayak) 
+
+---
 <p align="center">
 <a target="_blank" href="https://dev.to/itsvinayak">
   <img align="center"  alt="vinayak" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
@@ -108,8 +112,4 @@
 <img src="https://user-images.githubusercontent.com/33996594/204121689-b00e13bb-61fe-4590-8c06-ef2dbe140307.svg" width="100%" />
 </p>
  -->
-
-
-[![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak)
-
 

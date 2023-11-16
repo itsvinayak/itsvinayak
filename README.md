@@ -25,7 +25,7 @@
 
 <!-- YOUTUBE:START -->
 - [Optimize Your Kubernetes Workflow With Essential Bash Aliases! 💻](https://www.youtube.com/watch?v=yyuk9557OY4)
-- [5 lesser-known Tricks and Shorthands for JavaScript](https://www.youtube.com/watch?v=4ROFiicxh5M)
+- [5 lesser known Tricks and Shorthands for JavaScript](https://www.youtube.com/watch?v=4ROFiicxh5M)
 - [3 Ways to Clone Objects in JavaScript](https://www.youtube.com/watch?v=5zX5yYaAluA)
 - [Top Beginner-Friendly Linux Distributions for Easy Start](https://www.youtube.com/watch?v=xgDukd7a2o8)
 - [Docker Cheatsheet](https://www.youtube.com/watch?v=6fAi6v-MfTA)

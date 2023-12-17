@@ -76,8 +76,10 @@
 <details>
   <summary>
       <strong> ⚡ Click here to see some more stats ⚡ </strong>
-  </summary>  
-![Metrics](https://github.com/itsvinayak/itsvinayak/blob/master/github-metrics.svg)
+  </summary>
+  <picture>
+    <img src="/github-metrics.svg" alt="Metrics" width="100%" />
+  </picture>
 </details>
 
 

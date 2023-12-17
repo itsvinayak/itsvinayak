@@ -77,7 +77,7 @@
   <summary>
       <strong> ⚡ Click here to see some more stats ⚡ </strong>
   </summary>  
-![Metrics](https://github.com/booleanhunter/itsvinayak/blob/master/github-metrics.svg)
+![Metrics](https://github.com/itsvinayak/itsvinayak/blob/master/github-metrics.svg)
 </details>
 
 

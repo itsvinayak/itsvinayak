@@ -104,10 +104,6 @@ jobs:
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 8904253
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: graph
-          plugin_stargazers_days: 14
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons

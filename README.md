@@ -72,15 +72,15 @@
 ---
 <!-- [![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) -->
 
-
-<details>
-  <summary>
-    <strong> ⚡ Click here to see some more stats ⚡ </strong>
-  </summary>
-
-  ![Metrics](https://github.com/booleanhunter/itsvinayak/blob/master/github-metrics.svg)
-</details>
----
+<center>
+  <details>
+    <summary>
+      <strong> ⚡ Click here to see some more stats ⚡ </strong>
+    </summary>
+  
+    ![Metrics](https://github.com/booleanhunter/itsvinayak/blob/master/github-metrics.svg)
+  </details>
+</center>
 
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

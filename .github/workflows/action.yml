@@ -17,11 +17,9 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - repo
           #  - public_repo
           #  - read:project
-          #  - read:user
-          #  - read:org
-          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -33,6 +31,10 @@ jobs:
           user: itsvinayak
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          base_indepth: yes
+          base_skip: yes
+          config_display: columns
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
@@ -47,16 +49,15 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_calendar: yes
-          plugin_calendar_limit: 4
+          plugin_calendar_limit: 5
           plugin_discussions: yes
           plugin_discussions_categories: yes
-          plugin_discussions_categories_limit: 4
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
           plugin_habits: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts_type: graph
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -64,20 +65,31 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 10
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_self: yes
+          plugin_notable_types: commit
           plugin_people: yes
-          plugin_people_identicons: yes
           plugin_people_limit: 24
-          plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: .user.login
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_reactions: yes
@@ -86,16 +98,6 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Sponsor Me!
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount, sponsorships
-          plugin_sponsorships_size: 24
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
@@ -104,11 +106,11 @@ jobs:
           plugin_stackoverflow_user: 8904253
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
+          plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_support: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: random
           plugin_traffic: yes
           repositories_forks: yes

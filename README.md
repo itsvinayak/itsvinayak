@@ -75,10 +75,11 @@
 
   <details>
     <summary>
-      <center><strong> ⚡ Click here to see some more stats ⚡ </strong></center>
+      <strong> ⚡ Click here to see some more stats ⚡ </strong>
     </summary>
   
     ![Metrics](https://github.com/booleanhunter/itsvinayak/blob/master/github-metrics.svg)
+    
   </details>
 
 

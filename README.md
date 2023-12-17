@@ -79,7 +79,7 @@
   </summary>
 
   ![Metrics](https://github.com/booleanhunter/itsvinayak/blob/master/github-metrics.svg)
-
+</details>
 ---
 
 <p align="center">

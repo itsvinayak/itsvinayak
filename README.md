@@ -73,14 +73,12 @@
 <!-- [![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) -->
 
 
-  <details>
-    <summary>
+<details>
+  <summary>
       <strong> ⚡ Click here to see some more stats ⚡ </strong>
-    </summary>
-  
-    ![Metrics](https://github.com/booleanhunter/itsvinayak/blob/master/github-metrics.svg)
-    
-  </details>
+  </summary>  
+![Metrics](https://github.com/booleanhunter/itsvinayak/blob/master/github-metrics.svg)
+</details>
 
 
 ---

@@ -56,12 +56,12 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Your Development Workflow with Bash Scripts!](https://itsvinayak.hashnode.dev/optimizing-your-development-workflow-with-bash-scripts)
 - [Terminal Multiplexing with TMux in Linux](https://itsvinayak.hashnode.dev/terminal-multiplexing-with-tmux-in-linux)
 - [What Defines a Software Developer?](https://itsvinayak.hashnode.dev/what-defines-a-software-developer)
 - [GIT For Beginners](https://itsvinayak.hashnode.dev/git-for-beginners)
 - [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://itsvinayak.hashnode.dev/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks)
 - [Top Beginner-Friendly Linux Distributions for Easy Start](https://itsvinayak.hashnode.dev/top-beginner-friendly-linux-distributions-for-easy-start)
-- [Docker Cheat Sheet](https://itsvinayak.hashnode.dev/docker-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -2,14 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsvinayak&label=PROFILE+VIEWS" alt="itsvinayak" />
-  <a href="mailto:itssvinayak@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
-  <a href="../../issues/new"><img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'/></a>
-  <a href="https://linktr.ee/itsvinayak"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/></a>
+  <img src="https://visitcount.itsvg.in/api?id=itsvinayak&icon=7&color=0" alt="itsvinayak" />
 </p>
-
-
-
 
 <p align="left">
   
@@ -19,11 +13,22 @@
 - 📫 How to reach me **itssvinayak@gmail.com**
 </p>
 
----
+<br/>
+<br/>
+<br/>
 
-### 📺 Latest YouTube Videos
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/itsvinayak/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itsvinayak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsvinayak) [![Mail](https://img.shields.io/badge/Gmail-mail%20me-red)](mailto:itssvinayak@gmail.com) [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/itsvinayak) <a href="../../issues/new"><img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'/></a>
+
+<br/>
+<br/>
+<br/>
+
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Optimize Your Kubernetes Workflow With Essential Bash Aliases! 💻](https://www.youtube.com/watch?v=yyuk9557OY4)
 - [5 lesser known Tricks and Shorthands for JavaScript](https://www.youtube.com/watch?v=4ROFiicxh5M)
 - [3 Ways to Clone Objects in JavaScript](https://www.youtube.com/watch?v=5zX5yYaAluA)
@@ -33,13 +38,15 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC3Vrabb-Q563wejSp3KG8fA)
 
-
-
-<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvinayak&show_icons=true&theme=radical" alt="itsvinayak" /></p> 
- <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvinayak&show_icons=true&theme=radical" alt="itsvinayak" /></p>
+ <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"></p>
  -->
 <!-- --- -->
+
+<br/>
+<br/>
+<br/>
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="40"/> Blog posts
 
@@ -56,6 +63,7 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Optimizing Your Development Workflow with Bash Scripts!](https://itsvinayak.hashnode.dev/optimizing-your-development-workflow-with-bash-scripts)
 - [Terminal Multiplexing with TMux in Linux](https://itsvinayak.hashnode.dev/terminal-multiplexing-with-tmux-in-linux)
 - [What Defines a Software Developer?](https://itsvinayak.hashnode.dev/what-defines-a-software-developer)
@@ -64,27 +72,47 @@
 - [Top Beginner-Friendly Linux Distributions for Easy Start](https://itsvinayak.hashnode.dev/top-beginner-friendly-linux-distributions-for-easy-start)
 <!-- BLOG-POST-LIST:END -->
 
-
 <!-- p align="center">
 <a href="https://app.daily.dev/itsvinayak"><img src="https://github.com/itsvinayak/itsvinayak/blob/master/devcard.svg" width="200" alt="vinayak's Dev Card"/></a>
 </p -->
 
----
 <!-- [![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) -->
 
+<br/>
+<br/>
+<br/>
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=itsvinayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br/>
+<br/>
+<br/>
 
 <details>
-  <summary>
-      <strong> ⚡ Click here to see some more stats ⚡ </strong>
-  </summary>
-  <picture>
-    <img src="/github-metrics.svg" alt="Metrics" width="100%" />
-  </picture>
+  <summary>📊 GitHub Stats:</summary>
+![](https://github-readme-stats.vercel.app/api?username=itsvinayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsvinayak&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvinayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </details>
 
+<details>
+<summary>😂 Random Dev Meme:</summary>
+  <img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+</details>
+
+<details>
+  <summary> ✍️ Random Dev Quote</summary>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</details>
+<br/>
+<br/>
+<br/>
 
 ---
-
 
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -116,10 +144,7 @@
 </p>
 
 
-<!-- 
 <hr/>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/33996594/204121689-b00e13bb-61fe-4590-8c06-ef2dbe140307.svg" width="100%" />
 </p>
- -->
-

@@ -63,7 +63,6 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Optimizing Your Development Workflow with Bash Scripts!](https://itsvinayak.hashnode.dev/optimizing-your-development-workflow-with-bash-scripts)
 - [Terminal Multiplexing with TMux in Linux](https://itsvinayak.hashnode.dev/terminal-multiplexing-with-tmux-in-linux)
 - [What Defines a Software Developer?](https://itsvinayak.hashnode.dev/what-defines-a-software-developer)

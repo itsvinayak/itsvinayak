@@ -28,7 +28,6 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Optimize Your Kubernetes Workflow With Essential Bash Aliases! 💻](https://www.youtube.com/watch?v=yyuk9557OY4)
 - [5 lesser known Tricks and Shorthands for JavaScript](https://www.youtube.com/watch?v=4ROFiicxh5M)
 - [3 Ways to Clone Objects in JavaScript](https://www.youtube.com/watch?v=5zX5yYaAluA)

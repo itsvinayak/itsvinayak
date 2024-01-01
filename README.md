@@ -128,7 +128,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="color: white">
 <a target="_blank" href="https://dev.to/itsvinayak">
   <img align="center"  alt="vinayak" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
@@ -138,10 +138,4 @@
 <a href="https://linkedin.com/in/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itsvinayak" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/8904253/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/8904253/itsvinayak" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vinayak sharma" height="30" width="30" /></a>
-</p>
-
-
-<hr/>
-<p align="left">
-<img src="https://user-images.githubusercontent.com/33996594/204121689-b00e13bb-61fe-4590-8c06-ef2dbe140307.svg" width="100%" />
 </p>

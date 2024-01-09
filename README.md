@@ -9,7 +9,7 @@
   
   - 🌱 I’m currently learning many things <a href="https://www.freecodecamp.org/itsvinayak"> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a> <a href="https://www.udemy.com/user/vinayak-sharma-17/"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/> </a>
 - 👨‍💻 All of my projects are available here
-- 💬 Ask me about Django, python, javascript, node
+- 💬 Ask me about Django, python, javascript, node [![wakatime](https://wakatime.com/badge/user/d5729238-78d6-4c66-95af-e07980d2828a.svg)](https://wakatime.com/@d5729238-78d6-4c66-95af-e07980d2828a)
 - 📫 How to reach me **itssvinayak@gmail.com**
 </p>
 
@@ -20,6 +20,8 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/itsvinayak/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itsvinayak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsvinayak) [![Mail](https://img.shields.io/badge/Gmail-mail%20me-red)](mailto:itssvinayak@gmail.com) [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/itsvinayak) <a href="../../issues/new"><img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'/></a>
+
+
 
 <br/>
 <br/>

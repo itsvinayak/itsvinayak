@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" height="30px" />, I'm vinayak</h1>
 <h3 align="center">A passionate developer from India</h3>
-
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=itsvinayak&icon=7&color=0" alt="itsvinayak" />
-</p>
+<br/>
 
 <p align="left">
   
@@ -14,8 +11,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## 🌐 Socials:
 
@@ -23,8 +18,6 @@
 
 
 
-<br/>
-<br/>
 <br/>
 
 ## 📺 Latest YouTube Videos
@@ -45,8 +38,6 @@
  -->
 <!-- --- -->
 
-<br/>
-<br/>
 <br/>
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" width="40"/> Blog posts
@@ -79,15 +70,11 @@
 <!-- [![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) -->
 
 <br/>
-<br/>
-<br/>
 
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=itsvinayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
-<br/>
 <br/>
 
 <details>
@@ -108,8 +95,7 @@
 
 </details>
 <br/>
-<br/>
-<br/>
+
 
 ---
 

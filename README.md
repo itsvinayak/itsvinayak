@@ -63,38 +63,6 @@
 - [Top Beginner-Friendly Linux Distributions for Easy Start](https://itsvinayak.hashnode.dev/top-beginner-friendly-linux-distributions-for-easy-start)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- p align="center">
-<a href="https://app.daily.dev/itsvinayak"><img src="https://github.com/itsvinayak/itsvinayak/blob/master/devcard.svg" width="200" alt="vinayak's Dev Card"/></a>
-</p -->
-
-<!-- [![itsvinayak's GitHub | Stats](https://stats-dev.quine.sh/itsvinayak/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=itsvinayak) -->
-
-<br/>
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=itsvinayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br/>
-
-<details>
-  <summary>📊 GitHub Stats:</summary>
-  
-![](https://github-readme-stats.vercel.app/api?username=itsvinayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true) <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=itsvinayak&theme=dark&hide_border=true) <br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvinayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@itsvinayak/d9fdb1eb-6a3d-46dc-be6a-2a66506190f4.png" /></a>
-</details>
-
-<details>
-<summary>😂 Random Dev Meme:</summary>
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</details>
-
-<details>
-  <summary> ✍️ Random Dev Quote</summary>
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</details>
 <br/>
 
 

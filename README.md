@@ -55,12 +55,12 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with RabbitMq using NodeJs](https://itsvinayak.hashnode.dev/getting-started-with-rabbitmq-using-nodejs)
 - [Redis Pipelining in NodeJS](https://itsvinayak.hashnode.dev/redis-pipelining-in-nodejs)
 - [Optimizing Your Development Workflow with Bash Scripts!](https://itsvinayak.hashnode.dev/optimizing-your-development-workflow-with-bash-scripts)
 - [Terminal Multiplexing with TMux in Linux](https://itsvinayak.hashnode.dev/terminal-multiplexing-with-tmux-in-linux)
 - [What Defines a Software Developer?](https://itsvinayak.hashnode.dev/what-defines-a-software-developer)
 - [GIT For Beginners](https://itsvinayak.hashnode.dev/git-for-beginners)
-- [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://itsvinayak.hashnode.dev/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>

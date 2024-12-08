@@ -55,12 +55,12 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bcrypt Algorithm for Secure Password Hashing](https://itsvinayak.hashnode.dev/the-bcrypt-algorithm-for-secure-password-hashing)
 - [Getting started with RabbitMq using NodeJs](https://itsvinayak.hashnode.dev/getting-started-with-rabbitmq-using-nodejs)
 - [Redis Pipelining in NodeJS](https://itsvinayak.hashnode.dev/redis-pipelining-in-nodejs)
 - [Optimizing Your Development Workflow with Bash Scripts!](https://itsvinayak.hashnode.dev/optimizing-your-development-workflow-with-bash-scripts)
 - [Terminal Multiplexing with TMux in Linux](https://itsvinayak.hashnode.dev/terminal-multiplexing-with-tmux-in-linux)
 - [What Defines a Software Developer?](https://itsvinayak.hashnode.dev/what-defines-a-software-developer)
+- [GIT For Beginners](https://itsvinayak.hashnode.dev/git-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>

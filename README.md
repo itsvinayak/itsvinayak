@@ -96,3 +96,13 @@
 <a href="https://stackoverflow.com/users/8904253/itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/8904253/itsvinayak" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@itsvinayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vinayak sharma" height="30" width="30" /></a>
 </p>
+
+
+
+
+  <img
+    src="https://render.gitanimals.org/lines/itsvinayak?pet-id=660042989742229440"
+    width="1000"
+    height="120"
+  />
+  

@@ -1,6 +1,6 @@
 import * as React from 'react';
 import Image from 'next/image';
-import { useMDXComponent } from 'next-contentlayer/hooks';
+import { MDXContent } from '@content-collections/mdx/react';
 import BlogTitle from '@components/BlogTitle';
 import { cn } from '@lib/utils';
 import { Callout } from '@ui/Callout';
@@ -184,7 +184,6 @@ export function Mdx({
   authorsImage,
   tags,
 }: MdxProps) {
-  const Component = useMDXComponent(code);
   if (!authorsImage) {
     authorsImage = process.env.AUTHOR_IMAGE ? [process.env.AUTHOR_IMAGE] : [];
   }
@@ -200,7 +199,7 @@ export function Mdx({
         authorsImage={authorsImage}
         tags={tags}
       />
-      <Component components={components} />
+      <MDXContent code={code} components={components} />
     </article>
   );
 }

@@ -1,4 +1,4 @@
-const { withContentlayer } = require('next-contentlayer');
+const { withContentCollections } = require('@content-collections/next');
 
 const config = {
   dest: 'public',
@@ -24,4 +24,4 @@ const nextConfig = withPWA({
   }
 });
 
-module.exports = withContentlayer(nextConfig);
+module.exports = withContentCollections(nextConfig);

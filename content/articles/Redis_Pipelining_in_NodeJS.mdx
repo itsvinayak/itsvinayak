@@ -1,0 +1,170 @@
+---
+title: Redis Pipelining in NodeJS
+description: Learn Redis multi, automatic pipelining, and manual pipeline execution in Node.js using node-redis.
+date: 25, Jul 2024
+tags: ['node-redis', 'redis', 'nodejs', 'pipeline']
+authors: ['vinayak']
+---
+
+Redis Pipelining is a technique that helps to reduce the round-trip time between the Redis server and the client. In this article, we will explore the Redis Pipelining in Node.js.
+
+Before we start, let's first understand the time between round trips involved in executing Redis commands between the server and client.
+
+- The client sends a Redis query to the Redis server.
+- The Redis server processes this query and responds to the client.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720196999317/c3daa63e-96fb-4585-b94e-5ba1faff9efc.png)
+
+For each Redis command, this request-response cycle continues.
+
+### MULTI Command In Redis
+
+The MULTI command in Redis allows the execution of multiple Redis commands in a single step.
+
+## Using Redis Multi and Pipeline in NodeJS
+
+In Node.js, Redis clients have two main methods for batching commands and creating transactions. One is the Redis multi command, and the other is the pipeline method.
+
+In this article, we will be using the `node-redis` package.
+
+Install:
+
+```bash
+npm i redis
+```
+
+The MULTI command in Redis executes a group of commands as atomic transactions to ensure data integrity. This means that all commands in the block are either executed or none are.
+
+### Redis example of multi
+
+```javascript
+const redis = require("redis");
+
+const client = redis.createClient();
+
+const execMulti = () => {
+  const multi = client.multi();
+  multi.set("key1", "value1");
+  multi.set("key2", "value2");
+  multi.get("key1");
+  multi.get("key2");
+  const multiExec = multi.exec();
+
+  multiExec
+    .then((res) => {
+      console.log("Multi commands executed successfully");
+      console.log(res);
+      client.quit();
+    })
+    .catch((err) => {
+      console.log("Error executing multi commands");
+      console.log(err);
+    });
+};
+
+client.on("error", (err) => {
+  console.log("Redis Client Error", err);
+});
+
+client
+  .connect()
+  .then(() => {
+    console.log("Connected to Redis");
+    execMulti();
+  })
+  .catch((err) => {
+    console.log(err);
+  });
+```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721505974152/bb26fd01-3815-44f4-9f02-2cb00be7d36b.png)
+
+The pipeline feature of the node-redis client allows batching of multiple commands but does not guarantee atomicity.
+
+Node Redis can automatically group multiple requests made during the same "tick," meaning if commands are in a single cycle of the event loop, the node-redis client can combine them into a single pipeline.
+
+### Auto-Pipelining example in Node Redis
+
+```javascript
+const redis = require("redis");
+const client = redis.createClient();
+
+client.on("error", (err) => {
+  console.error("Redis client error", err);
+});
+
+client
+  .connect()
+  .then(() => {
+    console.log("Connected to Redis");
+    Promise.all([
+      client.set("key", "value"),
+      client.get("key"),
+      client.set("key1", 1),
+      client.incr("key1"),
+      client.get("key1"),
+    ])
+      .then((results) => {
+        console.log("SET", results[0]);
+        console.log("GET", results[1]);
+        console.log("SET", results[2]);
+        console.log("INCR", results[3]);
+        console.log("GET", results[4]);
+        client.quit();
+      })
+      .catch((err) => {
+        console.error("Error setting/getting from Redis", err);
+      });
+  })
+  .catch((err) => {
+    console.error("Error connecting to Redis", err);
+  });
+```
+
+Output:
+
+```text
+Connected to Redis
+SET OK
+GET value
+SET OK
+INCR 2
+GET 2
+```
+
+Node-redis client also contains `execAsPipeline()` for manual batching of Redis commands.
+
+### Example using execAsPipeline method
+
+```javascript
+const redis = require("redis");
+const client = redis.createClient();
+
+client.on("error", (err) => {
+  console.error("Redis client error", err);
+});
+
+client
+  .connect()
+  .then(async () => {
+    console.log("Connected to Redis");
+    let pipeline = client.multi();
+    pipeline.set("key1", "value1");
+    pipeline.set("key2", "value2");
+    pipeline.get("key1");
+    pipeline.get("key2");
+    let result = await pipeline.execAsPipeline();
+    console.log(result);
+    client.quit();
+  })
+  .catch((err) => {
+    console.error("Error connecting to Redis", err);
+  });
+```
+
+Output:
+
+```text
+Connected to Redis
+[ 'OK', 'OK', 'value1', 'value2' ]
+```

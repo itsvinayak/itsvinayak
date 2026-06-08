@@ -11,6 +11,7 @@
     "module": "esnext",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
+    "ignoreDeprecations": "6.0",
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
@@ -23,7 +24,7 @@
       "@/*": ["./src/app/*"],
       "@components/*": ["./src/components/*"],
       "@lib/*": ["./lib/*"],
-      "@generated": ["./.contentlayer/generated"],
+      "content-collections": ["./.content-collections/generated"],
       "@ui/*": ["./src/components/ui/*"]
     }
   },
@@ -33,7 +34,7 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/app/blog/[...slug].js",
-    ".contentlayer/generated",
+    ".content-collections/generated",
     "build/types/**/*.ts"
   ],
   "exclude": ["node_modules"]

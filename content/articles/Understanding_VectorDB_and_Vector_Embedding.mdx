@@ -1,0 +1,157 @@
+---
+title: Understanding VectorDB and Vector Embedding
+description: A practical introduction to vector embeddings, vector databases, similarity search, and a Python walkthrough for PDF semantic retrieval.
+date: 12, Oct 2025
+tags: ['ai', 'vector-database', 'vector-embeddings', 'vectorsearch']
+authors: ['vinayak']
+---
+
+A vectorDB is a special kind of database that can store and manage unstructured data in the form of vectors.
+
+Vectors are mathematical representations of data points in an n-dimensional space. Each vector is an array of numbers that captures the essential features of the data. Converting data into a meaningful vector form is called vector embedding.
+
+### Example
+
+```text
+Text: "Hello world"
+Vector: [0.1, 0.3, 0.5, 0.7]
+```
+
+Putting in short, vectorDB stores the vector embedding of data that allows for efficient similarity search and retrieval.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760288733958/b625c064-25df-4262-9c3b-4e17c7bc00d1.png)
+
+There are multiple embedding models available to convert data into vector form. Some popular embedding models include:
+
+- BERT
+- FastText
+- Sentence Transformers
+- OpenAI Embeddings
+
+## How is text converted into vector form to be stored in VectorDB?
+
+Step 1: Tokenization
+
+The text is first broken down into smaller units called tokens. For example, the sentence "hello, My name is vinayak" can be tokenized into ["hello", ",", "My", "name", "is", "vinayak"].
+
+Step 2: Embedding
+
+For each token, the embedding model generates a vector representation or base vector.
+
+Step 3: Contextualization
+
+The model processes these vectors and captures context and relationships between words.
+
+Step 4: Sentence-level Vector using Pooling
+
+After contextualization, the model combines vectors to create a single embedding for the whole sentence by pooling. Pooling means combining multiple token embeddings into a single fixed-length vector.
+
+Step 5: Storing vectors in VectorDB
+
+This embedding is now stored in a vector database. To find similarity between two words or sentences, we compute cosine similarity:
+
+```text
+similarity = (A · B) / (||A|| ||B||)
+```
+
+Where:
+
+- A⋅B = dot product of the two vectors
+- ||A|| = magnitude (length) of vector
+- ||B|| = magnitude (length) of vector
+
+If similarity is approximately 1, the texts mean nearly the same thing.
+
+### Popular Vector Databases
+
+- Chroma
+- Redis Vector / RedisAI
+- Pinecone
+
+## Storing the content of a PDF for semantic search/retrieval
+
+- Extract text from the PDF using pypdf
+- Split into meaningful sections (for example, 500–1000 tokens per chunk)
+- Use an embedding model (text-embedding-3-small from OpenAI or all-MiniLM-L6-v2 from SentenceTransformer)
+- Store vectors in ChromaDB
+- Retrieve + query
+
+```text
+PDF -> Text -> Chunk -> Embeddings -> Local Vector DB -> Query
+```
+
+For this project, we will require a few Python packages:
+
+- `langchain.text_splitter` for splitting text into chunks
+- `langchain.community` for reading PDF data
+- `sentence_transformers` for generating embeddings
+- `chromadb` for storing vectors
+- `pypdf` required by PDF loader
+
+```bash
+pip install langchain_text_splitters langchain_community sentence_transformers chromadb pypdf
+```
+
+### Importing Libraries
+
+```python
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from sentence_transformers import SentenceTransformer
+import chromadb
+from chromadb.utils import embedding_functions
+import numpy as np
+```
+
+### Loading PDF File
+
+```python
+loader = PyPDFLoader("/Users/admin/Documents/text-algorithms.pdf")
+docs = loader.load()
+```
+
+`docs` contains metadata and page_content in Document objects.
+
+### Split into chunks and take page_content
+
+```python
+splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+chunks = splitter.split_documents(docs)
+chunks = [chunk.page_content for chunk in chunks]
+```
+
+### Creating embeddings using the all-MiniLM-L6-v2 model
+
+```python
+model = SentenceTransformer('all-MiniLM-L6-v2')
+embeddings = model.encode(chunks)
+```
+
+### Storing data in ChromaDB
+
+```python
+client = chromadb.Client()
+collection = client.create_collection("pdf_collection_test")
+
+for i, chunk in enumerate(chunks):
+    collection.add(
+        documents=[chunk],
+        metadatas=[{"source": "text-algorithms.pdf"}],
+        ids=[str(i)]
+    )
+```
+
+### Retrieve data
+
+```python
+query = "What is the main topic?"
+query_embedding = model.encode([query])[0]
+
+results = collection.query(
+    query_embeddings=[query_embedding],
+    n_results=3
+)
+
+for doc in results['documents'][0]:
+    print('-->', doc)
+```

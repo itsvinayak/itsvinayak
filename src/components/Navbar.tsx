@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import Navlink from '@ui/Navlink';
 import ThemeSwitcher from '@components/ThemeSwitcher';
+import SearchPopup from '@components/SearchPopup';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { useEffect, useState } from 'react';
 
@@ -78,7 +79,8 @@ const Navbar = () => {
         >
             <div className='flex w-screen flex-row justify-between align-middle md:hidden'>
                 <NavbarLogo />
-                <div className='flex flex-row items-center space-x-10 py-4'>
+                <div className='flex flex-row items-center space-x-5 py-4 pr-5'>
+                    <SearchPopup containerId='search-mobile-popup' />
                     <ThemeSwitcher />
                     <NavbarButton actionFunction={toggleNav} actionType={showNav} />
                 </div>
@@ -86,7 +88,10 @@ const Navbar = () => {
             <div className='hidden md:block'>
                 <Navlink links={links} classNameProps={'flex flex-row'} />
             </div>
-            <div className='hidden md:block mt-7 self-center'>
+            <div className='hidden md:block ml-7 mt-7 mr-7 self-center'>
+                <SearchPopup containerId='search-desktop-popup' />
+            </div>
+            <div className='hidden md:block mt-9 mr-7 self-center'>
                 <ThemeSwitcher />
             </div>
             {showNav && (

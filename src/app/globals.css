@@ -25,3 +25,93 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.search-glass .pagefind-ui__form {
+  margin: 0;
+  position: relative;
+}
+
+.search-glass .pagefind-ui__search-input {
+  width: 100%;
+  min-height: 48px;
+  border-radius: 14px;
+  border: 1px solid rgba(113, 113, 122, 0.3);
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  padding-left: 14px;
+  padding-right: 44px;
+}
+
+.search-glass .pagefind-ui__search-input:focus {
+  outline: none;
+  border-color: rgba(59, 130, 246, 0.5);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.18);
+}
+
+.search-glass .pagefind-ui__search-clear {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  min-width: 2rem;
+  border: 0;
+  border-radius: 9999px;
+  background: transparent;
+  font-size: 0;
+  color: transparent;
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.search-glass .pagefind-ui__search-clear::before {
+  content: '\232b';
+  font-size: 1rem;
+  line-height: 1;
+  font-weight: 500;
+  color: rgb(82 82 91);
+}
+
+.search-glass .pagefind-ui__search-clear:hover {
+  background: rgba(113, 113, 122, 0.14);
+}
+
+.search-glass .pagefind-ui__search-clear:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+}
+
+.search-glass .pagefind-ui__results {
+  margin-top: 12px;
+}
+
+.search-glass .pagefind-ui__result {
+  border-radius: 12px;
+  padding: 12px;
+  border: 1px solid rgba(113, 113, 122, 0.2);
+  background: rgba(255, 255, 255, 0.72);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.search-glass .pagefind-ui__result:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
+}
+
+.dark .search-glass .pagefind-ui__search-input {
+  border-color: rgba(161, 161, 170, 0.35);
+  background: rgba(24, 24, 27, 0.75);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.dark .search-glass .pagefind-ui__result {
+  border-color: rgba(161, 161, 170, 0.25);
+  background: rgba(24, 24, 27, 0.75);
+}
+
+.dark .search-glass .pagefind-ui__search-clear::before {
+  color: rgb(228 228 231);
+}

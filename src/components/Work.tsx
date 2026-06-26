@@ -7,20 +7,30 @@ const About = () => {
   return (
     <>
       <Heading heading='Current Endeavors: Navigating the Software Development Horizon' />
-      <p className='mt-4 pb-4'>
-        At <TextTag text='Pratishthan Software Ventures Pvt. Ltd' logo='' />, I
-        currently serve as a Senior Software Engineer, contributing my expertise
-        for more than 2 years. In this role, I am actively involved in the
-        creation and implementation of critical payment systems such as NACH and
-        SEPA, along with the development and integration of ACH products.
-        <br />I played a pivotal role in developing the Finacle OE Payments
-        backend system (HKFPS). Additionally, I contributed to the development
-        and integration of the Foreign Exchange feature for Payments,
-        participated in performance tuning initiatives, and implemented Bulk DB
-        inserts in Transaction Handler, outbound, and inbound microservices. My
-        skills during this period included backend development, API development,
-        RabbitMQ, Node.js, Redis, FinTech, Payments, REST APIs, debugging,
-        MongoDB, problem-solving, software development, Git, Docker, and DevOps.
+      <p className="mt-4 pb-4 text-lg text-zinc-800 dark:text-zinc-300">
+        At <TextTag text="Pratishthan Software Ventures Pvt. Ltd" logo="" />, I
+        currently work as a <strong>Team Lead</strong>, leading a team of developers
+        while designing and building enterprise payment solutions. I have contributed
+        to the development of payment systems including <strong>NACH</strong>,
+        <strong> SEPA</strong> (EBRT1, EBSDD, EBSCT), <strong>BOOK</strong>,
+        <strong> QCBRTP</strong>, and <strong>UAERTP</strong>, as well as ACH payment
+        products.
+
+        <br />
+        <br />
+
+        I played a key role in developing the <strong>Finacle OE Payments</strong>
+        backend for the Hong Kong Faster Payment System (HKFPS) and implemented the
+        Foreign Exchange module for Payments. I also optimized system performance by
+        introducing bulk database inserts, improving transaction processing across
+        Transaction Handler, inbound, and outbound microservices.
+
+        <br />
+        <br />
+
+        My expertise includes backend engineering, distributed systems, payment
+        processing, microservices, REST APIs, RabbitMQ, Node.js, Redis, MongoDB,
+        Docker, Git, performance optimization, and scalable FinTech solutions.
       </p>
       <Link
         href='/work'

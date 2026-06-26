@@ -1,21 +1,21 @@
 import Link from 'next/link';
 import { cn } from '@lib/utils';
 
-const Navlink = ({ links, classNameProps }: any) => {
-  console.log(links);
+const Navlink = ({ links, classNameProps, onLinkClick }: any) => {
   return (
     <ul
       className={cn(
-        'mt-7 rounded font-medium md:mx-20 md:px-20 ',
+        'rounded font-medium',
         classNameProps
       )}
     >
       {links.map((link: any) => (
-        <li key={link.name} className='mb-2'>
+        <li key={link.name} className='list-none'>
           <Link
             href={link.href}
+            onClick={onLinkClick}
             className={cn(
-              'relative block w-fit rounded px-6 py-2 text-base font-semibold tracking-wide transition-all dark:hover:bg-[#0d0b0bd9] hover:bg-[#f0f0f0d9] dark:hover:text-white hover:text-black',
+              'relative inline-flex w-full items-center justify-start rounded-lg px-4 py-2 text-sm font-semibold tracking-wide text-zinc-800 transition-all hover:bg-zinc-100 hover:text-black dark:text-zinc-100 dark:hover:bg-zinc-800 md:w-fit md:text-base',
               link.itemClass
             )}
           >

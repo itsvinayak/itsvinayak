@@ -4,14 +4,22 @@ import { FaComputer } from 'react-icons/fa6';
 import { MdWork } from 'react-icons/md';
 export const WorkData = [
   {
+    title: 'Team Lead at Pratishthan Software Ventures Pvt. Ltd.',
+    icon: <FaComputer />,
+    description:
+      'Led a team of developers in delivering payment systems, including SEPA (EBRT1, EBSDD, EBSCT), BOOK, QCBRTP, UAERTP, and NACH, from design through deployment.',
+    fromTime: 'April 2024',
+    toTime: 'Present',
+    isLatest: true,
+  },
+  {
     title:
       'Senior Software Engineer at Pratishthan Software Ventures Pvt. Ltd.',
     icon: <FaComputer />,
     description:
       'Involved in creating and implementing the NACH payment system, the SEPA payment system, and the development and integration of ACH products.',
     fromTime: 'April 2023',
-    toTime: 'Present',
-    isLatest: true,
+    toTime: 'April 2024',
   },
   {
     title: 'Software Engineer at Pratishthan Software Ventures Pvt. Ltd.',

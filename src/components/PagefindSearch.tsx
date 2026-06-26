@@ -3,7 +3,11 @@
 import { useEffect } from 'react';
 
 type WindowWithPagefind = Window & {
-  PagefindUI?: new (options: { element: string; showSubResults?: boolean }) => unknown;
+  PagefindUI?: new (options: {
+    element: string;
+    showSubResults?: boolean;
+    showImages?: boolean;
+  }) => unknown;
   __pagefindMountedIds?: Record<string, boolean>;
 };
 
@@ -40,6 +44,7 @@ const PagefindSearch = ({ containerId = 'search' }: PagefindSearchProps) => {
       new w.PagefindUI({
         element: elementSelector,
         showSubResults: true,
+        showImages: true,
       });
     };
 

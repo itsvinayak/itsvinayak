@@ -41,7 +41,7 @@ const SearchPopup = ({ containerId, className = '' }: SearchPopupProps) => {
   return (
     <div className={className}>
       <button
-        className='group rounded-full border border-zinc-300/80 bg-white/80 p-2.5 text-zinc-800 shadow-sm backdrop-blur-sm transition hover:scale-[1.03] hover:bg-white active:scale-95 dark:border-zinc-700 dark:bg-zinc-900/60 dark:text-zinc-100 dark:hover:bg-zinc-900'
+        className='group inline-flex h-10 w-10 items-center justify-center rounded-full border border-zinc-300/80 bg-white/80 text-zinc-800 shadow-sm backdrop-blur-sm transition hover:scale-[1.03] hover:bg-white active:scale-95 dark:border-zinc-700 dark:bg-zinc-900/60 dark:text-zinc-100 dark:hover:bg-zinc-900'
         onClick={() => setOpen(true)}
         aria-label='Open search'
         type='button'

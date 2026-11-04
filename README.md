@@ -55,12 +55,12 @@
 <!-- --- -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentiment Analysis Using Rule-Based and Pre-trained Models](https://itsvinayak.hashnode.dev/sentiment-analysis-using-rule-based-and-pre-trained-models)
 - [Concurrency and Multithreading in Java](https://itsvinayak.hashnode.dev/concurrency-and-multithreading-in-java)
 - [Getting Started with Clojure](https://itsvinayak.hashnode.dev/getting-started-with-clojure)
 - [Understanding VectorDB and Vector Embedding](https://itsvinayak.hashnode.dev/understanding-vectordb-and-vector-embedding)
 - [The Bcrypt Algorithm for Secure Password Hashing](https://itsvinayak.hashnode.dev/the-bcrypt-algorithm-for-secure-password-hashing)
 - [Getting started with RabbitMq using NodeJs](https://itsvinayak.hashnode.dev/getting-started-with-rabbitmq-using-nodejs)
-- [Redis Pipelining in NodeJS](https://itsvinayak.hashnode.dev/redis-pipelining-in-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
